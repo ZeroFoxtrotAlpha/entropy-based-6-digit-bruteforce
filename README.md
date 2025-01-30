@@ -1,5 +1,5 @@
-# entropy-based-6-digit-bruteforce
-teaching myself some entropy
+#randomized 6-digit-bruteforce
+teaching myself some probability 
 
 
 
@@ -17,7 +17,7 @@ Average attempts needed: 568118
 vs
 
 
---- Entropy-based Brute-Force Summary ---
+--- pobability-based Brute-Force Summary ---
 Average time taken: 0.0032 seconds
 Average attempts needed: 14
 
