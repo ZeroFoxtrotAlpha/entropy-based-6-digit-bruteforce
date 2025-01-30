@@ -2,6 +2,13 @@
 teaching myself some entropy
 
 
+
+
+10 cracks as a sample size
+
+
+
+
 --- Brute-Force Attack Summary ---
 Average time taken: 0.4703 seconds
 Average attempts needed: 568118
