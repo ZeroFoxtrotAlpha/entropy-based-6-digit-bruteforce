@@ -1,0 +1,525 @@
+Trying 041991... Incorrect.
+Trying 041992... Incorrect.
+Trying 041993... Incorrect.
+Trying 041994... Incorrect.
+Trying 041995... Incorrect.
+Trying 041996... Incorrect.
+Trying 041997... Incorrect.
+Trying 041998... Incorrect.
+Trying 041999... Incorrect.
+Trying 042000... Incorrect.
+Trying 042001... Incorrect.
+Trying 042002... Incorrect.
+Trying 042003... Incorrect.
+Trying 042004... Incorrect.
+Trying 042005... Incorrect.
+Trying 042006... Incorrect.
+Trying 042007... Incorrect.
+Trying 042008... Incorrect.
+Trying 042009... Incorrect.
+Trying 042010... Incorrect.
+Trying 042011... Incorrect.
+Trying 042012... Incorrect.
+Trying 042013... Incorrect.
+Trying 042014... Incorrect.
+Trying 042015... Incorrect.
+Trying 042016... Incorrect.
+Trying 042017... Incorrect.
+Trying 042018... Incorrect.
+Trying 042019... Incorrect.
+Trying 042020... Incorrect.
+Trying 042021... Incorrect.
+Trying 042022... Incorrect.
+Trying 042023... Incorrect.
+Trying 042024... Incorrect.
+Trying 042025... Incorrect.
+Trying 042026... Incorrect.
+Trying 042027... Incorrect.
+Trying 042028... Incorrect.
+Trying 042029... Incorrect.
+Trying 042030... Incorrect.
+Trying 042031... Incorrect.
+Trying 042032... Incorrect.
+Trying 042033... Incorrect.
+Trying 042034... Incorrect.
+Trying 042035... Incorrect.
+Trying 042036... Incorrect.
+Trying 042037... Incorrect.
+Trying 042038... Incorrect.
+Trying 042039... Incorrect.
+Trying 042040... Incorrect.
+Trying 042041... Incorrect.
+Trying 042042... Incorrect.
+Trying 042043... Correct! Passcode cracked.
+
+Passcode successfully guessed: 042043
+Time taken: 2.9915 seconds
+PS C:\Users\Dv690> & C:/Users/Dv690/AppData/Local/Programs/Python/Python312/python.exe c:/Users/Dv690/Downloads/learningentropy.py
+Running brute-force attack 10 times...
+
+Test 1: Passcode is 689395
+Test 1 completed: 689396 attempts, 0.5909 seconds
+
+Test 2: Passcode is 640256
+Test 2 completed: 640257 attempts, 0.5335 seconds
+
+Test 3: Passcode is 691580
+Test 3 completed: 691581 attempts, 0.5830 seconds
+
+Test 4: Passcode is 471094
+Test 4 completed: 471095 attempts, 0.4006 seconds
+
+Test 5: Passcode is 059460
+Test 5 completed: 59461 attempts, 0.0486 seconds
+
+Test 6: Passcode is 140722
+Test 6 completed: 140723 attempts, 0.1160 seconds
+
+Test 7: Passcode is 750645
+Test 7 completed: 750646 attempts, 0.6179 seconds
+
+Test 8: Passcode is 585177
+Test 8 completed: 585178 attempts, 0.4802 seconds
+
+Test 9: Passcode is 673037
+Test 9 completed: 673038 attempts, 0.5478 seconds
+
+Test 10: Passcode is 979804
+Test 10 completed: 979805 attempts, 0.7849 seconds
+
+
+--- Brute-Force Attack Summary ---
+Average time taken: 0.4703 seconds
+Average attempts needed: 568118
+PS C:\Users\Dv690> & C:/Users/Dv690/AppData/Local/Programs/Python/Python312/python.exe c:/Users/Dv690/Downloads/learningentropy.py
+Running entropy-based brute-force attack 10 times...
+
+Test 1: Passcode is 557557
+Attempt 1: Trying 424885... Incorrect.
+Attempt 2: Trying 936633... Incorrect.
+Attempt 3: Trying 595376... Incorrect.
+Attempt 4: Trying 107297... Incorrect.
+Attempt 5: Trying 541462... Incorrect.
+Attempt 6: Trying 318909... Incorrect.
+Attempt 7: Trying 770021... Incorrect.
+Attempt 8: Trying 053140... Incorrect.
+Attempt 9: Trying 657754... Incorrect.
+Attempt 10: Trying 259517... Incorrect.
+Attempt 11: Trying 562558... Incorrect.
+Attempt 12: Trying 557557... Correct! Passcode cracked.
+Test 1 completed: 12 attempts, 0.0050 seconds
+
+Test 2: Passcode is 258490
+Attempt 1: Trying 920321... Incorrect.
+Attempt 2: Trying 809488... Incorrect.
+Attempt 3: Trying 492153... Incorrect.
+Attempt 4: Trying 041690... Incorrect.
+Attempt 5: Trying 233512... Incorrect.
+Attempt 6: Trying 355294... Incorrect.
+Attempt 7: Trying 776935... Incorrect.
+Attempt 8: Trying 568060... Incorrect.
+Attempt 9: Trying 658807... Incorrect.
+Attempt 10: Trying 284746... Incorrect.
+Attempt 11: Trying 257490... Incorrect.
+Attempt 12: Trying 258499... Incorrect.
+Attempt 13: Trying 158470... Incorrect.
+Attempt 14: Trying 258490... Correct! Passcode cracked.
+Test 2 completed: 14 attempts, 0.0025 seconds
+
+Test 3: Passcode is 985205
+Attempt 1: Trying 398752... Incorrect.
+Attempt 2: Trying 409629... Incorrect.
+Attempt 3: Trying 580267... Incorrect.
+Attempt 4: Trying 175915... Incorrect.
+Attempt 5: Trying 736135... Incorrect.
+Attempt 6: Trying 281080... Incorrect.
+Attempt 7: Trying 813375... Incorrect.
+Attempt 8: Trying 082893... Incorrect.
+Attempt 9: Trying 625241... Incorrect.
+Attempt 10: Trying 987504... Incorrect.
+Attempt 11: Trying 984208... Incorrect.
+Attempt 12: Trying 965406... Incorrect.
+Attempt 13: Trying 945205... Incorrect.
+Attempt 14: Trying 955205... Incorrect.
+Attempt 15: Trying 985205... Correct! Passcode cracked.
+Test 3 completed: 15 attempts, 0.0030 seconds
+
+Test 4: Passcode is 399772
+Attempt 1: Trying 400215... Incorrect.
+Attempt 2: Trying 363599... Incorrect.
+Attempt 3: Trying 936057... Incorrect.
+Attempt 4: Trying 581462... Incorrect.
+Attempt 5: Trying 717306... Incorrect.
+Attempt 6: Trying 025143... Incorrect.
+Attempt 7: Trying 898878... Incorrect.
+Attempt 8: Trying 199684... Incorrect.
+Attempt 9: Trying 294920... Incorrect.
+Attempt 10: Trying 652772... Incorrect.
+Attempt 11: Trying 399731... Incorrect.
+Attempt 12: Trying 379772... Incorrect.
+Attempt 13: Trying 399772... Correct! Passcode cracked.
+Test 4 completed: 13 attempts, 0.0030 seconds
+
+Test 5: Passcode is 662252
+Attempt 1: Trying 077956... Incorrect.
+Attempt 2: Trying 460544... Incorrect.
+Attempt 3: Trying 245018... Incorrect.
+Attempt 4: Trying 969637... Incorrect.
+Attempt 5: Trying 302155... Incorrect.
+Attempt 6: Trying 681490... Incorrect.
+Attempt 7: Trying 618373... Incorrect.
+Attempt 8: Trying 623851... Incorrect.
+Attempt 9: Trying 862762... Incorrect.
+Attempt 10: Trying 156252... Incorrect.
+Attempt 11: Trying 532209... Incorrect.
+Attempt 12: Trying 664252... Incorrect.
+Attempt 13: Trying 692222... Incorrect.
+Attempt 14: Trying 762252... Incorrect.
+Attempt 15: Trying 662282... Incorrect.
+Attempt 16: Trying 662252... Correct! Passcode cracked.
+Test 5 completed: 16 attempts, 0.0040 seconds
+
+Test 6: Passcode is 454386
+Attempt 1: Trying 200648... Incorrect.
+Attempt 2: Trying 341324... Incorrect.
+Attempt 3: Trying 487570... Incorrect.
+Attempt 4: Trying 676716... Incorrect.
+Attempt 5: Trying 934365... Incorrect.
+Attempt 6: Trying 755959... Incorrect.
+Attempt 7: Trying 528892... Incorrect.
+Attempt 8: Trying 113081... Incorrect.
+Attempt 9: Trying 062387... Incorrect.
+Attempt 10: Trying 894303... Incorrect.
+Attempt 11: Trying 459386... Incorrect.
+Attempt 12: Trying 454386... Correct! Passcode cracked.
+Test 6 completed: 12 attempts, 0.0030 seconds
+
+Test 7: Passcode is 566098
+Attempt 1: Trying 800919... Incorrect.
+Attempt 2: Trying 663777... Incorrect.
+Attempt 3: Trying 035595... Incorrect.
+Attempt 4: Trying 788264... Incorrect.
+Attempt 5: Trying 214643... Incorrect.
+Attempt 6: Trying 179001... Incorrect.
+Attempt 7: Trying 352330... Incorrect.
+Attempt 8: Trying 467082... Incorrect.
+Attempt 9: Trying 941028... Incorrect.
+Attempt 10: Trying 596158... Incorrect.
+Attempt 11: Trying 566498... Incorrect.
+Attempt 12: Trying 526098... Incorrect.
+Attempt 13: Trying 566098... Correct! Passcode cracked.
+Test 7 completed: 13 attempts, 0.0030 seconds
+
+Test 8: Passcode is 279603
+Attempt 1: Trying 318152... Incorrect.
+Attempt 2: Trying 773428... Incorrect.
+Attempt 3: Trying 291904... Incorrect.
+Attempt 4: Trying 622006... Incorrect.
+Attempt 5: Trying 054610... Incorrect.
+Attempt 6: Trying 146387... Incorrect.
+Attempt 7: Trying 589291... Incorrect.
+Attempt 8: Trying 267803... Incorrect.
+Attempt 9: Trying 805773... Incorrect.
+Attempt 10: Trying 930505... Incorrect.
+Attempt 11: Trying 479639... Incorrect.
+Attempt 12: Trying 279603... Correct! Passcode cracked.
+Test 8 completed: 12 attempts, 0.0030 seconds
+
+Test 9: Passcode is 559587
+Attempt 1: Trying 696347... Incorrect.
+Attempt 2: Trying 328609... Incorrect.
+Attempt 3: Trying 980274... Incorrect.
+Attempt 4: Trying 579751... Incorrect.
+Attempt 5: Trying 564120... Incorrect.
+Attempt 6: Trying 743835... Incorrect.
+Attempt 7: Trying 457483... Incorrect.
+Attempt 8: Trying 809516... Incorrect.
+Attempt 9: Trying 052998... Incorrect.
+Attempt 10: Trying 259562... Incorrect.
+Attempt 11: Trying 559587... Correct! Passcode cracked.
+Test 9 completed: 11 attempts, 0.0021 seconds
+
+Test 10: Passcode is 311383
+Attempt 1: Trying 508843... Incorrect.
+Attempt 2: Trying 785423... Incorrect.
+Attempt 2: Trying 785423... Incorrect.
+Attempt 2: Trying 785423... Incorrect.
+Attempt 2: Trying 785423... Incorrect.
+Attempt 2: Trying 785423... Incorrect.
+Attempt 2: Trying 785423... Incorrect.
+Attempt 2: Trying 785423... Incorrect.
+Attempt 2: Trying 785423... Incorrect.
+Attempt 2: Trying 785423... Incorrect.
+Attempt 2: Trying 785423... Incorrect.
+Attempt 2: Trying 785423... Incorrect.
+Attempt 2: Trying 785423... Incorrect.
+Attempt 3: Trying 257293... Incorrect.
+Attempt 4: Trying 879176... Incorrect.
+Attempt 5: Trying 194014... Incorrect.
+Attempt 6: Trying 421357... Incorrect.
+Attempt 2: Trying 785423... Incorrect.
+Attempt 3: Trying 257293... Incorrect.
+Attempt 4: Trying 879176... Incorrect.
+Attempt 5: Trying 194014... Incorrect.
+Attempt 6: Trying 421357... Incorrect.
+Attempt 7: Trying 036332... Incorrect.
+Attempt 8: Trying 961360... Incorrect.
+Attempt 9: Trying 641608... Incorrect.
+Attempt 10: Trying 310383... Incorrect.
+Attempt 11: Trying 311383... Correct! Passcode cracked.
+Test 10 completed: 11 attempts, 0.0020 seconds
+
+Attempt 2: Trying 785423... Incorrect.
+Attempt 3: Trying 257293... Incorrect.
+Attempt 4: Trying 879176... Incorrect.
+Attempt 5: Trying 194014... Incorrect.
+Attempt 6: Trying 421357... Incorrect.
+Attempt 7: Trying 036332... Incorrect.
+Attempt 8: Trying 961360... Incorrect.
+Attempt 9: Trying 641608... Incorrect.
+Attempt 10: Trying 310383... Incorrect.
+Attempt 11: Trying 311383... Correct! Passcode cracked.
+Test 10 completed: 11 attempts, 0.0020 seconds
+Attempt 2: Trying 785423... Incorrect.
+Attempt 3: Trying 257293... Incorrect.
+Attempt 4: Trying 879176... Incorrect.
+Attempt 5: Trying 194014... Incorrect.
+Attempt 6: Trying 421357... Incorrect.
+Attempt 7: Trying 036332... Incorrect.
+Attempt 8: Trying 961360... Incorrect.
+Attempt 9: Trying 641608... Incorrect.
+Attempt 10: Trying 310383... Incorrect.
+Attempt 2: Trying 785423... Incorrect.
+Attempt 3: Trying 257293... Incorrect.
+Attempt 4: Trying 879176... Incorrect.
+Attempt 5: Trying 194014... Incorrect.
+Attempt 6: Trying 421357... Incorrect.
+Attempt 7: Trying 036332... Incorrect.
+Attempt 8: Trying 961360... Incorrect.
+Attempt 4: Trying 879176... Incorrect.
+Attempt 5: Trying 194014... Incorrect.
+Attempt 6: Trying 421357... Incorrect.
+Attempt 7: Trying 036332... Incorrect.
+Attempt 8: Trying 961360... Incorrect.
+Attempt 6: Trying 421357... Incorrect.
+Attempt 7: Trying 036332... Incorrect.
+Attempt 8: Trying 961360... Incorrect.
+Attempt 9: Trying 641608... Incorrect.
+Attempt 10: Trying 310383... Incorrect.
+Attempt 11: Trying 311383... Correct! Passcode cracked.
+Test 10 completed: 11 attempts, 0.0020 seconds
+
+Attempt 7: Trying 036332... Incorrect.
+Attempt 8: Trying 961360... Incorrect.
+Attempt 9: Trying 641608... Incorrect.
+Attempt 10: Trying 310383... Incorrect.
+Attempt 11: Trying 311383... Correct! Passcode cracked.
+Test 10 completed: 11 attempts, 0.0020 seconds
+
+Attempt 8: Trying 961360... Incorrect.
+Attempt 9: Trying 641608... Incorrect.
+Attempt 10: Trying 310383... Incorrect.
+Attempt 11: Trying 311383... Correct! Passcode cracked.
+Test 10 completed: 11 attempts, 0.0020 seconds
+
+
+--- Entropy-based Brute-Force Summary ---
+Average time taken: 0.0031 seconds
+Attempt 9: Trying 641608... Incorrect.
+Attempt 10: Trying 310383... Incorrect.
+Attempt 11: Trying 311383... Correct! Passcode cracked.
+Test 10 completed: 11 attempts, 0.0020 seconds
+
+
+--- Entropy-based Brute-Force Summary ---
+Average time taken: 0.0031 seconds
+
+
+--- Entropy-based Brute-Force Summary ---
+Average time taken: 0.0031 seconds
+
+--- Entropy-based Brute-Force Summary ---
+Average time taken: 0.0031 seconds
+--- Entropy-based Brute-Force Summary ---
+Average time taken: 0.0031 seconds
+Average time taken: 0.0031 seconds
+Average attempts needed: 13
+PS C:\Users\Dv690> ^C
+PS C:\Users\Dv690> & C:/Users/Dv690/AppData/Local/Programs/Python/Python312/python.exe c:/Users/Dv690/Downloads/learningentropy.py
+Running entropy-based brute-force attack 10 times...
+
+Test 1: Passcode is 036156
+Attempt 1: Trying 576159... Incorrect.
+Attempt 2: Trying 844375... Incorrect.
+Attempt 3: Trying 421746... Incorrect.
+Attempt 4: Trying 306591... Incorrect.
+Attempt 5: Trying 757938... Incorrect.
+Attempt 6: Trying 235157... Incorrect.
+Attempt 7: Trying 093213... Incorrect.
+Attempt 8: Trying 086006... Incorrect.
+Attempt 9: Trying 968656... Incorrect.
+Attempt 10: Trying 012160... Incorrect.
+Attempt 11: Trying 130184... Incorrect.
+Attempt 12: Trying 636852... Incorrect.
+Attempt 13: Trying 039126... Incorrect.
+Attempt 14: Trying 036156... Correct! Passcode cracked.
+Test 1 completed: 14 attempts, 0.0030 seconds
+
+Test 2: Passcode is 029388
+Attempt 1: Trying 819159... Incorrect.
+Attempt 2: Trying 245997... Incorrect.
+Attempt 3: Trying 082585... Incorrect.
+Attempt 4: Trying 734728... Incorrect.
+Attempt 5: Trying 698363... Incorrect.
+Attempt 6: Trying 063402... Incorrect.
+Attempt 7: Trying 557641... Incorrect.
+Attempt 8: Trying 070330... Incorrect.
+Attempt 9: Trying 321376... Incorrect.
+Attempt 10: Trying 909814... Incorrect.
+Attempt 11: Trying 029288... Incorrect.
+Attempt 12: Trying 026088... Incorrect.
+Attempt 13: Trying 429388... Incorrect.
+Attempt 14: Trying 129388... Incorrect.
+Attempt 15: Trying 029388... Correct! Passcode cracked.
+Test 2 completed: 15 attempts, 0.0030 seconds
+
+Test 3: Passcode is 389273
+Attempt 1: Trying 622777... Incorrect.
+Attempt 2: Trying 115525... Incorrect.
+Attempt 3: Trying 998239... Incorrect.
+Attempt 4: Trying 254201... Incorrect.
+Attempt 5: Trying 437478... Incorrect.
+Attempt 6: Trying 389652... Incorrect.
+Attempt 7: Trying 741973... Incorrect.
+Attempt 8: Trying 363166... Incorrect.
+Attempt 9: Trying 506013... Incorrect.
+Attempt 10: Trying 880240... Incorrect.
+Attempt 11: Trying 379373... Incorrect.
+Attempt 12: Trying 389294... Incorrect.
+Attempt 13: Trying 089873... Incorrect.
+Attempt 14: Trying 389273... Correct! Passcode cracked.
+Test 3 completed: 14 attempts, 0.0030 seconds
+
+Test 4: Passcode is 007771
+Attempt 1: Trying 957295... Incorrect.
+Attempt 2: Trying 579957... Incorrect.
+Attempt 3: Trying 742563... Incorrect.
+Attempt 4: Trying 390308... Incorrect.
+Attempt 5: Trying 636822... Incorrect.
+Attempt 6: Trying 125480... Incorrect.
+Attempt 7: Trying 281649... Incorrect.
+Attempt 8: Trying 418771... Incorrect.
+Attempt 9: Trying 007711... Incorrect.
+Attempt 10: Trying 867771... Incorrect.
+Attempt 11: Trying 004134... Incorrect.
+Attempt 12: Trying 003771... Incorrect.
+Attempt 13: Trying 007071... Incorrect.
+Attempt 14: Trying 007776... Incorrect.
+Attempt 15: Trying 007771... Correct! Passcode cracked.
+Test 4 completed: 15 attempts, 0.0040 seconds
+
+Test 5: Passcode is 543808
+Attempt 1: Trying 803842... Incorrect.
+Attempt 2: Trying 972901... Incorrect.
+Attempt 3: Trying 018309... Incorrect.
+Attempt 4: Trying 731597... Incorrect.
+Attempt 5: Trying 256683... Incorrect.
+Attempt 6: Trying 193838... Incorrect.
+Attempt 7: Trying 323805... Incorrect.
+Attempt 8: Trying 565110... Incorrect.
+Attempt 9: Trying 649728... Incorrect.
+Attempt 10: Trying 540808... Incorrect.
+Attempt 11: Trying 547878... Incorrect.
+Attempt 12: Trying 443204... Incorrect.
+Attempt 13: Trying 544406... Incorrect.
+Attempt 14: Trying 583868... Incorrect.
+Attempt 15: Trying 543808... Correct! Passcode cracked.
+Test 5 completed: 15 attempts, 0.0040 seconds
+
+Test 6: Passcode is 806703
+Attempt 1: Trying 960166... Incorrect.
+Attempt 2: Trying 456723... Incorrect.
+Attempt 3: Trying 702655... Incorrect.
+Attempt 4: Trying 188778... Incorrect.
+Attempt 5: Trying 844537... Incorrect.
+Attempt 6: Trying 631211... Incorrect.
+Attempt 7: Trying 895709... Incorrect.
+Attempt 8: Trying 229303... Incorrect.
+Attempt 9: Trying 373494... Incorrect.
+Attempt 10: Trying 006742... Incorrect.
+Attempt 11: Trying 506003... Incorrect.
+Attempt 12: Trying 816783... Incorrect.
+Attempt 13: Trying 806803... Incorrect.
+Attempt 14: Trying 807703... Incorrect.
+Attempt 15: Trying 806703... Correct! Passcode cracked.
+Test 6 completed: 15 attempts, 0.0030 seconds
+
+Test 7: Passcode is 537018
+Attempt 1: Trying 050388... Incorrect.
+Attempt 2: Trying 609111... Incorrect.
+Attempt 3: Trying 936016... Incorrect.
+Attempt 4: Trying 574830... Incorrect.
+Attempt 5: Trying 288622... Incorrect.
+Attempt 6: Trying 862204... Incorrect.
+Attempt 7: Trying 533468... Incorrect.
+Attempt 8: Trying 317577... Incorrect.
+Attempt 9: Trying 447058... Incorrect.
+Attempt 10: Trying 591915... Incorrect.
+Attempt 11: Trying 137798... Incorrect.
+Attempt 12: Trying 527013... Incorrect.
+Attempt 13: Trying 737048... Incorrect.
+Attempt 14: Trying 535018... Incorrect.
+Attempt 15: Trying 537018... Correct! Passcode cracked.
+Test 7 completed: 15 attempts, 0.0040 seconds
+
+Test 8: Passcode is 440277
+Attempt 1: Trying 262773... Incorrect.
+Attempt 2: Trying 153159... Incorrect.
+Attempt 3: Trying 949936... Incorrect.
+Attempt 4: Trying 494544... Incorrect.
+Attempt 5: Trying 846825... Incorrect.
+Attempt 6: Trying 478691... Incorrect.
+Attempt 7: Trying 330078... Incorrect.
+Attempt 8: Trying 485460... Incorrect.
+Attempt 9: Trying 500312... Incorrect.
+Attempt 10: Trying 021207... Incorrect.
+Attempt 11: Trying 610277... Incorrect.
+Attempt 12: Trying 440277... Correct! Passcode cracked.
+Test 8 completed: 12 attempts, 0.0030 seconds
+
+Test 9: Passcode is 387133
+Attempt 1: Trying 432594... Incorrect.
+Attempt 2: Trying 918776... Incorrect.
+Attempt 3: Trying 021249... Incorrect.
+Attempt 4: Trying 189132... Incorrect.
+Attempt 5: Trying 203463... Incorrect.
+Attempt 6: Trying 676305... Incorrect.
+Attempt 7: Trying 757053... Incorrect.
+Attempt 8: Trying 890130... Incorrect.
+Attempt 9: Trying 585831... Incorrect.
+Attempt 10: Trying 364683... Incorrect.
+Attempt 11: Trying 387933... Incorrect.
+Attempt 12: Trying 347117... Incorrect.
+Attempt 13: Trying 387123... Incorrect.
+Attempt 14: Trying 387138... Incorrect.
+Attempt 15: Trying 387133... Correct! Passcode cracked.
+Test 9 completed: 15 attempts, 0.0030 seconds
+
+Test 10: Passcode is 511737
+Attempt 1: Trying 899979... Incorrect.
+Attempt 2: Trying 258820... Incorrect.
+Attempt 3: Trying 910336... Incorrect.
+Attempt 4: Trying 381642... Incorrect.
+Attempt 5: Trying 464214... Incorrect.
+Attempt 6: Trying 007461... Incorrect.
+Attempt 7: Trying 116185... Incorrect.
+Attempt 8: Trying 732708... Incorrect.
+Attempt 9: Trying 623757... Incorrect.
+Attempt 10: Trying 575593... Incorrect.
+Attempt 11: Trying 511737... Correct! Passcode cracked.
+Test 10 completed: 11 attempts, 0.0020 seconds
+
+
+--- Entropy-based Brute-Force Summary ---
+Average time taken: 0.0032 seconds
+Average attempts needed: 14
