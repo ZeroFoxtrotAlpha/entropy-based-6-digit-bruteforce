@@ -1,3 +1,6 @@
+this is an inside joke
+
+
 #randomized 6-digit-bruteforce
 teaching myself some probability 
 
